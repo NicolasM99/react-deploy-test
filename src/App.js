@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <body>
         <h1> My React App</h1>
-        <h2>Author: Nicolas Moreno</h2>
+        <h2>Author: Nicolas Moreno Posada</h2>
         <img src={Profile} alt="profile" width={"200px"} className={"App-logo"}/>
       </body>
     </div>
